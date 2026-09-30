@@ -62,4 +62,3 @@ This repository is currently the **project blueprint / technical documentation**
 ## Status
 **Prototype / Blueprint stage**
 
-The OpenAI hackathon prototype demonstrated the core multi-agent information-processing concept. The next phase focuses on improving integration, persistence, user experience, and production readiness.
